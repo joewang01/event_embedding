@@ -1,0 +1,3 @@
+staging/
+*.json
+.DS_Store
